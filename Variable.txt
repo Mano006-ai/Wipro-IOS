@@ -1,0 +1,6 @@
+var name="Mano"
+var age=20
+print(name)
+print(age)
+name="Manothakin"
+print(name)
